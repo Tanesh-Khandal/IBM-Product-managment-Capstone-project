@@ -4,99 +4,124 @@ This repository includes my capstone project for the IBM Product Management Prof
 # IBM Product Management Capstone Project  
 ## EcoHeat Solar Water Heating System
 
-## 📌 Overview
-This repository contains my **Capstone Project** completed as part of the  
-**IBM Product Management Professional Certificate** on Coursera.
+🌞 EcoHeat – Solar Water Heating System
 
-The project focuses on designing a **Solar Water Heating System** aimed at reducing energy costs and promoting sustainable energy adoption for residential and small commercial users. It demonstrates practical application of core product management concepts such as product vision, market analysis, product concept development, and success metrics.
+Product Management Capstone | IBM Certification
 
----
+📌 Overview
 
-## 🎯 Problem Statement
-Traditional water heating solutions rely heavily on electricity or gas, leading to:
-- High energy costs for households and small businesses
-- Increased carbon footprint
-- Dependency on non-renewable energy sources
+EcoHeat is a solar-powered water heating solution designed to reduce household energy costs and promote sustainable energy adoption.
 
-There is a growing need for an **affordable, reliable, and eco-friendly alternative**.
+This project demonstrates end-to-end product management skills including:
 
----
+Problem identification
 
-## 🌱 Product Vision
-**EcoHeat Solar Water Heating System** aims to empower users to adopt clean energy solutions by providing cost-effective and sustainable water heating.
+User research & personas
 
-**Vision Statement:**  
-To become a leading provider of sustainable water heating solutions that improve quality of life while protecting the environment.
+MVP definition
 
-**Long-Term Goals:**
-- Increase adoption of renewable energy solutions
-- Reduce customers’ carbon footprint
-- Expand product reach nationally
-- Continuously improve energy efficiency
+Competitive analysis
 
----
+Go-to-market strategy
 
-## 🧩 Product Concept
-**Product Name:** EcoHeat Solar Water Heating System  
+🎯 Problem
 
-**Target Market:**
-- Residential users
-- Small commercial establishments
+Water heating contributes to 20–30% of household electricity usage in India.
 
-**Product Description:**  
-A solar-powered water heating system that uses renewable energy to deliver reliable hot water while significantly reducing electricity or gas usage.
+Key issues:
 
----
+High monthly electricity bills (₹2000–₹4000)
 
-## ⭐ Key Features
-- Solar thermal panels  
-- Insulated storage tank  
-- Low-maintenance system design  
+Dependence on non-renewable energy
 
----
+Low awareness of solar alternatives
 
-## 💡 Customer Benefits
-- Reduced energy bills  
-- Environmentally friendly solution  
-- Long-term cost savings  
-- Lower dependency on conventional energy sources  
+👤 Target User
 
----
+Rajesh Sharma (Persona)
 
-## 🔍 Market & Product Assessment
-### External Assessment
-- **Market Trends:** Growing demand for renewable and sustainable energy solutions  
-- **Customer Needs:** Lower electricity bills, eco-friendly heating, long-term savings  
-- **Competition:** Electric and gas water heaters; limited solar alternatives  
-- **Regulations:** Government incentives and renewable energy policies  
-- **Technology:** Advancements in solar panel efficiency  
+Tier-2 city resident
 
-### Internal Assessment
-- Strong technical expertise in renewable energy  
-- Moderate budget with a need for cost optimization  
-- Existing distribution and installation capabilities  
-- Ability to design energy-efficient systems  
+Monthly bill: ₹3500+
 
----
+Wants long-term savings but avoids high upfront costs
 
-## 🏆 Competitive Advantage
-- Renewable energy-based solution  
-- Lower operating and maintenance costs  
-- Eligibility for government incentives  
-- Sustainable and future-ready product positioning  
+💡 Solution
 
----
+EcoHeat uses solar thermal technology to reduce energy consumption by up to 60–70%, offering a cost-effective and eco-friendly alternative.
 
-## 📊 Success Metrics
-- Customer adoption rate  
-- Cost savings achieved by customers  
-- Customer satisfaction levels  
+🧩 MVP Features
 
----
+Core Features (MVP):
 
-## 📂 Repository Contents
-```text
-├── My_Personal_Product_Assessment.docx
-├── My_Product_Vision.docx
-├── My_Product_Concept_Document.docx
-└── Solar_Product_Management_Analysis.xlsx
+Solar thermal panels
+
+Insulated storage tank
+
+Basic installation
+
+Future Scope:
+
+IoT-based monitoring app
+
+Smart energy optimization
+
+Usage analytics
+
+⚔️ Competitive Positioning
+Feature	Electric Geyser	Gas Heater	EcoHeat
+Running Cost	High	Medium	Low
+Sustainability	❌	❌	✅
+Long-term Savings	❌	❌	✅
+💰 Business Model
+
+Price: ₹25,000 – ₹40,000
+
+Subsidy: Up to 30%
+
+Payback period: 2–3 years
+
+🚀 Go-To-Market Strategy
+
+Target Markets:
+
+Tier-2 & Tier-3 cities
+
+Channels:
+
+Builder partnerships
+
+Government solar programs
+
+Local installers
+
+Marketing Angle:
+👉 “Save ₹30,000 annually on electricity bills”
+
+📊 Success Metrics
+
+Customer adoption rate
+
+Average savings per household
+
+Customer satisfaction (NPS)
+
+ROI period
+
+🧠 Key Learnings
+
+Cost sensitivity drives adoption in Indian markets
+
+Simplicity in MVP is critical
+
+Positioning as an investment improves conversion
+
+📂 Repository Contents
+
+Product Vision
+
+Product Concept Document
+
+Market Analysis
+
+Product Assessment
